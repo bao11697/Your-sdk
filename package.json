@@ -1,0 +1,19 @@
+{
+  "name": "your-sdk",
+  "version": "1.0.0",
+  "description": "Your SDK description",
+  "main": "lib/sdk.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bao11697/Your-sdk.git"
+  },
+  "author": "bao.le",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
